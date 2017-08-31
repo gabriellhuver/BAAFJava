@@ -1,6 +1,6 @@
 # BAAFJava
 Bypass Any Antivirus Firewall
-Metaesploit powershell exec in java, bypass any antivirus. 
+Metasploit powershell exec in java, bypass any antivirus. 
 
 Bypass any anti-virus with powershell payload,
 this shit get the txt uploaded powershell and insta-execute on the victim pc,
