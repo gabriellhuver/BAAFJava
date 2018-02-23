@@ -16,5 +16,5 @@ this shit get the txt uploaded powershell and insta-execute on the victim pc,
 	
 And export jar file and send it. Be fun.
 
-Bitcoins Donate: 1EL1d6vdiKHSinkDf6z8RwVBCcg8s1me8J
+Bitcoins Donate: 1BseU69CoQnSMDWc24Qnzq31s4qMh348v6
 	
