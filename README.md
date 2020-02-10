@@ -15,6 +15,4 @@ this shit get the txt uploaded powershell and insta-execute on the victim pc,
                               You need to change this url /\ /\ /\
 	
 And export jar file and send it. Be fun.
-
-Bitcoins Donate: 1BseU69CoQnSMDWc24Qnzq31s4qMh348v6
 	
